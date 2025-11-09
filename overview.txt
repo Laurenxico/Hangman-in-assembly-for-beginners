@@ -5,6 +5,6 @@ get_guess	                Reads one character and normalizes it
 process_guess	            Updates display with correct letters
 check_win	                Detects if all letters guessed
 display_current_word	    Prints progress visually
-display_hangman	          Prints static ASCII art
+display_hangman	            Prints static ASCII art
 clear_screen	            Clears the terminal
 print_string	            Prints $-terminated strings
