@@ -1,1 +1,1 @@
-Visual Studio Code, TASM extension
+Visual Studio Code, MASM/TASM extension
